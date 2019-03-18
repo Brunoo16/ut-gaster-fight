@@ -32,4 +32,4 @@ Although this menu is available, you can't use mercy on this enemy. However, if 
 
 # Plans for the future.
 
-As you can see, the menus provide only one option each, however that may be changed in the future and more options (as well as items) could be implemented.
+As you can see, the menus provide only one option each, however that may be changed in the future and more options (as well as items) could be implemented. Also, a proper game over screen may be implemented (something similar to the actual game).
