@@ -39,4 +39,4 @@ As you can see, the menus provide only one option each, however that may be chan
 * Toby Fox for Undertale.</br>
 * Haley Wakamatsu for Determination Mono font.</br>
 * hotspicytaco for testing.</br>
-* And especially you for checking out this badly done fan-game.
+* And especially you for checking out this fan-game.
