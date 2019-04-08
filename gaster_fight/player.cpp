@@ -232,10 +232,7 @@ void Player::Update()
 						{
 							this->button_hovered--;
 						}
-						this->HoverButton(this->button_hovered);
-						button_hover_move_tick = current_tick + 150;
 					}
-
 					else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
 					{
 						if (this->button_hovered == Button_Type::Mercy_Button)
@@ -246,9 +243,9 @@ void Player::Update()
 						{
 							this->button_hovered++;
 						}
-						this->HoverButton(this->button_hovered);
-						button_hover_move_tick = current_tick + 150;
 					}
+					this->HoverButton(this->button_hovered);
+					button_hover_move_tick = current_tick + 200;
 				}
 
 				if (sf::Keyboard::isKeyPressed(sf::Keyboard::Z))
